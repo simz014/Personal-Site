@@ -1,3 +1,76 @@
 .checked {
     color: orange;
   }
+
+  body {
+    background-color:#d8e3e7;
+    font-family: 'Roboto Mono', monospace;
+    line-height: 2;
+  }
+  hr {
+    background-color: none;
+    border-width:5px;
+    border-style: dotted none none;
+    width: 5%;
+    
+  }
+
+ 
+  img{
+    height: 150px;;
+  }
+
+  h1  {
+     color:#52734d ;
+  }
+
+  h3  {
+    color:#91c788 ;
+ }
+
+ h5 {
+  color:#91c788 ;
+}
+
+.Bottom-Container{
+  background-color: #798777;
+  padding: 50px 0 20px;
+}
+a{
+  text-decoration: none;
+text-align: center;
+
+}
+
+.container-education1{
+  background-color: #51c4d3;
+  height: 500px;
+  width:300px ;
+  position:absolute;
+  display: inline;
+  margin-left: 300px;
+}
+
+.container-education2{
+  background-color: #9dad7f;
+  height: 500px;
+  width:300px ;
+  position:absolute;
+  display: inline;
+  margin-left: 600px;
+
+}
+.container-education3{
+  background-color: #276678;
+  height: 500px;
+  width: 300px;
+ 
+}
+#educational{
+  text-align: center;
+  
+}
+
+.Bottom-Container{
+text-align: center;
+}
